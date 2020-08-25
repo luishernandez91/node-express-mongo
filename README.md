@@ -1,4 +1,4 @@
-#Base backend project structure
+Base backend project structure
 
 ## Built with 🛠️
 
